@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hafeeznathoo. 
--Most of my experience has been using Python in pipeline integrity engineering applications for data analytics and I'm looking to learn more.
-- 🌱 I’m currently learning R and Python
+- 👋 Hi, I’m @hafeeznathoo.\
+-Most of my experience has been using Python in pipeline integrity engineering applications for data analytics and I'm excited to learn more!
+
 
 
 
